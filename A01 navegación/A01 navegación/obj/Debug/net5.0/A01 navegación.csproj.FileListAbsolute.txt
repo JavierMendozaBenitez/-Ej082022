@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\bin\Debug\net5.0\A01 navegación.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\bin\Debug\net5.0\A01 navegación.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\bin\Debug\net5.0\A01 navegación.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\bin\Debug\net5.0\A01 navegación.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\bin\Debug\net5.0\A01 navegación.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\bin\Debug\net5.0\A01 navegación.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\A01 navegación.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\A01 navegación.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\A01 navegación.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\A01 navegación.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\A01 navegación.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\A01 navegación.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\A01 navegación.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\refint\A01 navegación.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\A01 navegación.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\A01 navegación.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\A01 navegación\A01 navegación\obj\Debug\net5.0\ref\A01 navegación.dll

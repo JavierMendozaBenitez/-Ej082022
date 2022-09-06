@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\I01 préstamo.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\I01 préstamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\I01 préstamo.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\I01 préstamo.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\I01 préstamo.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\bin\Debug\net5.0\I01 préstamo.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\bin\Debug\net5.0\I01 préstamo.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\bin\Debug\net5.0\I01 préstamo.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\bin\Debug\net5.0\I01 préstamo.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\bin\Debug\net5.0\I01 préstamo.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\bin\Debug\net5.0\I01 préstamo.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\I01 préstamo.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\I01 préstamo.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\refint\I01 préstamo.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\I01 préstamo.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\I01 préstamo.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 préstamo\I01 préstamo\obj\Debug\net5.0\ref\I01 préstamo.dll

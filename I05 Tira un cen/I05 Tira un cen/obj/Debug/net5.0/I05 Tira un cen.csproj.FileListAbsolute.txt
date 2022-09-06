@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\bin\Debug\net5.0\I05 Tira un cen.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\bin\Debug\net5.0\I05 Tira un cen.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\bin\Debug\net5.0\I05 Tira un cen.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\bin\Debug\net5.0\I05 Tira un cen.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\bin\Debug\net5.0\I05 Tira un cen.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\bin\Debug\net5.0\I05 Tira un cen.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\obj\Debug\net5.0\I05 Tira un cen.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\obj\Debug\net5.0\I05 Tira un cen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\obj\Debug\net5.0\I05 Tira un cen.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\obj\Debug\net5.0\I05 Tira un cen.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\obj\Debug\net5.0\I05 Tira un cen.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\obj\Debug\net5.0\I05 Tira un cen.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\obj\Debug\net5.0\refint\I05 Tira un cen.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\obj\Debug\net5.0\I05 Tira un cen.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\obj\Debug\net5.0\I05 Tira un cen.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 Tira un cen\I05 Tira un cen\obj\Debug\net5.0\ref\I05 Tira un cen.dll

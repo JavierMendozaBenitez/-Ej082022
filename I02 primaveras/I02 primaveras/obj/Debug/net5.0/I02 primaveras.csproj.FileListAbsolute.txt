@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\I02 primaveras.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\I02 primaveras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\I02 primaveras.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\I02 primaveras.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\I02 primaveras.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\bin\Debug\net5.0\I02 primaveras.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\bin\Debug\net5.0\I02 primaveras.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\bin\Debug\net5.0\I02 primaveras.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\bin\Debug\net5.0\I02 primaveras.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\bin\Debug\net5.0\I02 primaveras.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\bin\Debug\net5.0\I02 primaveras.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\I02 primaveras.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\I02 primaveras.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\refint\I02 primaveras.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\I02 primaveras.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\I02 primaveras.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 primaveras\I02 primaveras\obj\Debug\net5.0\ref\I02 primaveras.dll

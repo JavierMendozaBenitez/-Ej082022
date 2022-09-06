@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\bin\Debug\net5.0\C02 La estantería.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\bin\Debug\net5.0\C02 La estantería.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\bin\Debug\net5.0\C02 La estantería.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\bin\Debug\net5.0\C02 La estantería.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\bin\Debug\net5.0\C02 La estantería.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\bin\Debug\net5.0\C02 La estantería.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\C02 La estantería.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\C02 La estantería.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\C02 La estantería.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\C02 La estantería.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\C02 La estantería.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\C02 La estantería.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\C02 La estantería.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\refint\C02 La estantería.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\C02 La estantería.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\C02 La estantería.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C02 La estantería\C02 La estantería\obj\Debug\net5.0\ref\C02 La estantería.dll

@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\I05 geometría.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\I05 geometría.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\I05 geometría.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\I05 geometría.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\I05 geometría.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\bin\Debug\net5.0\I05 geometría.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\bin\Debug\net5.0\I05 geometría.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\bin\Debug\net5.0\I05 geometría.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\bin\Debug\net5.0\I05 geometría.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\bin\Debug\net5.0\I05 geometría.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\bin\Debug\net5.0\I05 geometría.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\I05 geometría.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\I05 geometría.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\refint\I05 geometría.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\I05 geometría.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\I05 geometría.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I05 geometría\I05 geometría\obj\Debug\net5.0\ref\I05 geometría.dll

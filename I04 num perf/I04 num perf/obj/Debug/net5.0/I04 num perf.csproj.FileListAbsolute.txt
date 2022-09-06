@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\bin\Debug\net5.0\I04 num perf.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\bin\Debug\net5.0\I04 num perf.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\bin\Debug\net5.0\I04 num perf.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\bin\Debug\net5.0\I04 num perf.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\bin\Debug\net5.0\I04 num perf.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\bin\Debug\net5.0\I04 num perf.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\obj\Debug\net5.0\I04 num perf.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\obj\Debug\net5.0\I04 num perf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\obj\Debug\net5.0\I04 num perf.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\obj\Debug\net5.0\I04 num perf.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\obj\Debug\net5.0\I04 num perf.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\obj\Debug\net5.0\I04 num perf.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\obj\Debug\net5.0\refint\I04 num perf.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\obj\Debug\net5.0\I04 num perf.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\obj\Debug\net5.0\I04 num perf.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 num perf\I04 num perf\obj\Debug\net5.0\ref\I04 num perf.dll

@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\bin\Debug\net5.0\I01 Max min pro.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\bin\Debug\net5.0\I01 Max min pro.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\bin\Debug\net5.0\I01 Max min pro.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\bin\Debug\net5.0\I01 Max min pro.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\bin\Debug\net5.0\I01 Max min pro.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\bin\Debug\net5.0\I01 Max min pro.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\obj\Debug\net5.0\I01 Max min pro.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\obj\Debug\net5.0\I01 Max min pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\obj\Debug\net5.0\I01 Max min pro.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\obj\Debug\net5.0\I01 Max min pro.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\obj\Debug\net5.0\I01 Max min pro.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\obj\Debug\net5.0\I01 Max min pro.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\obj\Debug\net5.0\refint\I01 Max min pro.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\obj\Debug\net5.0\I01 Max min pro.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\obj\Debug\net5.0\I01 Max min pro.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Max min pro\I01 Max min pro\obj\Debug\net5.0\ref\I01 Max min pro.dll

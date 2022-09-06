@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\bin\Debug\net5.0\C01 Conversor binario.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\bin\Debug\net5.0\C01 Conversor binario.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\bin\Debug\net5.0\C01 Conversor binario.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\bin\Debug\net5.0\C01 Conversor binario.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\bin\Debug\net5.0\C01 Conversor binario.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\bin\Debug\net5.0\C01 Conversor binario.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\C01 Conversor binario.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\C01 Conversor binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\C01 Conversor binario.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\C01 Conversor binario.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\C01 Conversor binario.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\C01 Conversor binario.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\C01 Conversor binario.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\refint\C01 Conversor binario.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\C01 Conversor binario.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\C01 Conversor binario.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\C01 Conversor binario\C01 Conversor binario\obj\Debug\net5.0\ref\C01 Conversor binario.dll

@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\bin\Debug\net5.0\I01 Vali rangos.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\bin\Debug\net5.0\I01 Vali rangos.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\bin\Debug\net5.0\I01 Vali rangos.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\bin\Debug\net5.0\I01 Vali rangos.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\bin\Debug\net5.0\I01 Vali rangos.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\bin\Debug\net5.0\I01 Vali rangos.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\I01 Vali rangos.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\I01 Vali rangos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\I01 Vali rangos.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\I01 Vali rangos.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\I01 Vali rangos.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\I01 Vali rangos.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\I01 Vali rangos.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\refint\I01 Vali rangos.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\I01 Vali rangos.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\I01 Vali rangos.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Vali rangos\I01 Vali rangos\obj\Debug\net5.0\ref\I01 Vali rangos.dll

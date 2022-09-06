@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\bin\Debug\net5.0\I04 argentino.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\bin\Debug\net5.0\I04 argentino.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\bin\Debug\net5.0\I04 argentino.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\bin\Debug\net5.0\I04 argentino.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\bin\Debug\net5.0\I04 argentino.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\bin\Debug\net5.0\I04 argentino.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\I04 argentino.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\I04 argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\I04 argentino.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\I04 argentino.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\I04 argentino.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\I04 argentino.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\I04 argentino.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\refint\I04 argentino.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\I04 argentino.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\I04 argentino.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 argentino\I04 argentino\obj\Debug\net5.0\ref\I04 argentino.dll

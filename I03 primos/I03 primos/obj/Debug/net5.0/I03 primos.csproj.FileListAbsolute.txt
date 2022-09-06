@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\bin\Debug\net5.0\I03 primos.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\bin\Debug\net5.0\I03 primos.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\bin\Debug\net5.0\I03 primos.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\bin\Debug\net5.0\I03 primos.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\bin\Debug\net5.0\I03 primos.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\bin\Debug\net5.0\I03 primos.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\obj\Debug\net5.0\I03 primos.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\obj\Debug\net5.0\I03 primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\obj\Debug\net5.0\I03 primos.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\obj\Debug\net5.0\I03 primos.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\obj\Debug\net5.0\I03 primos.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\obj\Debug\net5.0\I03 primos.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\obj\Debug\net5.0\refint\I03 primos.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\obj\Debug\net5.0\I03 primos.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\obj\Debug\net5.0\I03 primos.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 primos\I03 primos\obj\Debug\net5.0\ref\I03 primos.dll

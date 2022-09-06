@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\bin\Debug\net5.0\I07 Reci sueldo.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\bin\Debug\net5.0\I07 Reci sueldo.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\bin\Debug\net5.0\I07 Reci sueldo.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\bin\Debug\net5.0\I07 Reci sueldo.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\bin\Debug\net5.0\I07 Reci sueldo.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\bin\Debug\net5.0\I07 Reci sueldo.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\obj\Debug\net5.0\I07 Reci sueldo.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\obj\Debug\net5.0\I07 Reci sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\obj\Debug\net5.0\I07 Reci sueldo.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\obj\Debug\net5.0\I07 Reci sueldo.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\obj\Debug\net5.0\I07 Reci sueldo.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\obj\Debug\net5.0\I07 Reci sueldo.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\obj\Debug\net5.0\refint\I07 Reci sueldo.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\obj\Debug\net5.0\I07 Reci sueldo.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\obj\Debug\net5.0\I07 Reci sueldo.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Reci sueldo\I07 Reci sueldo\obj\Debug\net5.0\ref\I07 Reci sueldo.dll

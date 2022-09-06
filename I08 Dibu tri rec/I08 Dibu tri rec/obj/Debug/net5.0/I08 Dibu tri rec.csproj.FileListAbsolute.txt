@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\obj\Debug\net5.0\I08 Dibu tri rec.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\obj\Debug\net5.0\I08 Dibu tri rec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\obj\Debug\net5.0\I08 Dibu tri rec.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\obj\Debug\net5.0\I08 Dibu tri rec.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\obj\Debug\net5.0\I08 Dibu tri rec.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\bin\Debug\net5.0\I08 Dibu tri rec.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\bin\Debug\net5.0\I08 Dibu tri rec.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\bin\Debug\net5.0\I08 Dibu tri rec.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\bin\Debug\net5.0\I08 Dibu tri rec.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\bin\Debug\net5.0\I08 Dibu tri rec.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\bin\Debug\net5.0\I08 Dibu tri rec.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\obj\Debug\net5.0\I08 Dibu tri rec.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\obj\Debug\net5.0\refint\I08 Dibu tri rec.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\obj\Debug\net5.0\I08 Dibu tri rec.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\obj\Debug\net5.0\I08 Dibu tri rec.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 Dibu tri rec\I08 Dibu tri rec\obj\Debug\net5.0\ref\I08 Dibu tri rec.dll

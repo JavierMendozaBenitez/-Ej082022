@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\bin\Debug\net5.0\I08 El tiempo pasa.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\bin\Debug\net5.0\I08 El tiempo pasa.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\bin\Debug\net5.0\I08 El tiempo pasa.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\bin\Debug\net5.0\I08 El tiempo pasa.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\bin\Debug\net5.0\I08 El tiempo pasa.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\bin\Debug\net5.0\I08 El tiempo pasa.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\I08 El tiempo pasa.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\I08 El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\I08 El tiempo pasa.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\I08 El tiempo pasa.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\I08 El tiempo pasa.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\I08 El tiempo pasa.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\I08 El tiempo pasa.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\refint\I08 El tiempo pasa.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\I08 El tiempo pasa.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\I08 El tiempo pasa.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I08 El tiempo pasa\I08 El tiempo pasa\obj\Debug\net5.0\ref\I08 El tiempo pasa.dll

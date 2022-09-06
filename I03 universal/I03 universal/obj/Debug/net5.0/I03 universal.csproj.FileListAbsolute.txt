@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\I03 universal.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\I03 universal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\I03 universal.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\I03 universal.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\I03 universal.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\bin\Debug\net5.0\I03 universal.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\bin\Debug\net5.0\I03 universal.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\bin\Debug\net5.0\I03 universal.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\bin\Debug\net5.0\I03 universal.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\bin\Debug\net5.0\I03 universal.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\bin\Debug\net5.0\I03 universal.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\I03 universal.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\I03 universal.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\refint\I03 universal.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\I03 universal.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\I03 universal.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I03 universal\I03 universal\obj\Debug\net5.0\ref\I03 universal.dll

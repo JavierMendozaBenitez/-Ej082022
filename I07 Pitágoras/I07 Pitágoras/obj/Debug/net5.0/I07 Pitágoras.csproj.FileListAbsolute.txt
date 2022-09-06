@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\bin\Debug\net5.0\I07 Pitágoras.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\bin\Debug\net5.0\I07 Pitágoras.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\bin\Debug\net5.0\I07 Pitágoras.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\bin\Debug\net5.0\I07 Pitágoras.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\bin\Debug\net5.0\I07 Pitágoras.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\bin\Debug\net5.0\I07 Pitágoras.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\I07 Pitágoras.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\I07 Pitágoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\I07 Pitágoras.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\I07 Pitágoras.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\I07 Pitágoras.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\I07 Pitágoras.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\I07 Pitágoras.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\refint\I07 Pitágoras.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\I07 Pitágoras.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\I07 Pitágoras.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I07 Pitágoras\I07 Pitágoras\obj\Debug\net5.0\ref\I07 Pitágoras.dll

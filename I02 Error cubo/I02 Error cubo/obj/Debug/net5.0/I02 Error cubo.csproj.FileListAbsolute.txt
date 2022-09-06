@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\bin\Debug\net5.0\I02 Error cubo.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\bin\Debug\net5.0\I02 Error cubo.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\bin\Debug\net5.0\I02 Error cubo.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\bin\Debug\net5.0\I02 Error cubo.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\bin\Debug\net5.0\I02 Error cubo.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\bin\Debug\net5.0\I02 Error cubo.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\obj\Debug\net5.0\I02 Error cubo.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\obj\Debug\net5.0\I02 Error cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\obj\Debug\net5.0\I02 Error cubo.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\obj\Debug\net5.0\I02 Error cubo.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\obj\Debug\net5.0\I02 Error cubo.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\obj\Debug\net5.0\I02 Error cubo.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\obj\Debug\net5.0\refint\I02 Error cubo.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\obj\Debug\net5.0\I02 Error cubo.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\obj\Debug\net5.0\I02 Error cubo.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I02 Error cubo\I02 Error cubo\obj\Debug\net5.0\ref\I02 Error cubo.dll

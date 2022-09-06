@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\bin\Debug\net5.0\I01 Sumador.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\bin\Debug\net5.0\I01 Sumador.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\bin\Debug\net5.0\I01 Sumador.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\bin\Debug\net5.0\I01 Sumador.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\bin\Debug\net5.0\I01 Sumador.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\bin\Debug\net5.0\I01 Sumador.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\I01 Sumador.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\I01 Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\I01 Sumador.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\I01 Sumador.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\I01 Sumador.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\I01 Sumador.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\I01 Sumador.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\refint\I01 Sumador.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\I01 Sumador.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\I01 Sumador.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Sumador\I01 Sumador\obj\Debug\net5.0\ref\I01 Sumador.dll

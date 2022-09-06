@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I05 Aprendete las tablas", "I05 Aprendete las tablas\I05 Aprendete las tablas.csproj", "{5F427A87-70F6-46AE-8170-DF02165F61FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{AF240D2D-B77A-40D7-A1A2-E6F5DBAC123D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F427A87-70F6-46AE-8170-DF02165F61FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F427A87-70F6-46AE-8170-DF02165F61FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F427A87-70F6-46AE-8170-DF02165F61FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F427A87-70F6-46AE-8170-DF02165F61FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF240D2D-B77A-40D7-A1A2-E6F5DBAC123D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF240D2D-B77A-40D7-A1A2-E6F5DBAC123D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF240D2D-B77A-40D7-A1A2-E6F5DBAC123D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF240D2D-B77A-40D7-A1A2-E6F5DBAC123D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C21DDD3-344A-4A14-8897-4AF0A57CF270}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\bin\Debug\net5.0\I04 La calculadora.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\bin\Debug\net5.0\I04 La calculadora.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\bin\Debug\net5.0\I04 La calculadora.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\bin\Debug\net5.0\I04 La calculadora.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\bin\Debug\net5.0\I04 La calculadora.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\bin\Debug\net5.0\I04 La calculadora.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\I04 La calculadora.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\I04 La calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\I04 La calculadora.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\I04 La calculadora.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\I04 La calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\I04 La calculadora.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\I04 La calculadora.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\refint\I04 La calculadora.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\I04 La calculadora.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\I04 La calculadora.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I04 La calculadora\I04 La calculadora\obj\Debug\net5.0\ref\I04 La calculadora.dll

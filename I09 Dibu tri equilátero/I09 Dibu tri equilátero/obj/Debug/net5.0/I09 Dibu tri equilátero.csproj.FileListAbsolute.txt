@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\bin\Debug\net5.0\I09 Dibu tri equilátero.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\bin\Debug\net5.0\I09 Dibu tri equilátero.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\bin\Debug\net5.0\I09 Dibu tri equilátero.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\bin\Debug\net5.0\I09 Dibu tri equilátero.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\bin\Debug\net5.0\I09 Dibu tri equilátero.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\bin\Debug\net5.0\I09 Dibu tri equilátero.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\obj\Debug\net5.0\I09 Dibu tri equilátero.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\obj\Debug\net5.0\I09 Dibu tri equilátero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\obj\Debug\net5.0\I09 Dibu tri equilátero.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\obj\Debug\net5.0\I09 Dibu tri equilátero.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\obj\Debug\net5.0\I09 Dibu tri equilátero.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\obj\Debug\net5.0\I09 Dibu tri equilátero.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\obj\Debug\net5.0\refint\I09 Dibu tri equilátero.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\obj\Debug\net5.0\I09 Dibu tri equilátero.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\obj\Debug\net5.0\I09 Dibu tri equilátero.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I09 Dibu tri equilátero\I09 Dibu tri equilátero\obj\Debug\net5.0\ref\I09 Dibu tri equilátero.dll

@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\bin\Debug\net5.0\I06 Años bisie.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\bin\Debug\net5.0\I06 Años bisie.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\bin\Debug\net5.0\I06 Años bisie.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\bin\Debug\net5.0\I06 Años bisie.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\bin\Debug\net5.0\I06 Años bisie.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\bin\Debug\net5.0\I06 Años bisie.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\obj\Debug\net5.0\I06 Años bisie.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\obj\Debug\net5.0\I06 Años bisie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\obj\Debug\net5.0\I06 Años bisie.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\obj\Debug\net5.0\I06 Años bisie.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\obj\Debug\net5.0\I06 Años bisie.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\obj\Debug\net5.0\I06 Años bisie.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\obj\Debug\net5.0\refint\I06 Años bisie.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\obj\Debug\net5.0\I06 Años bisie.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\obj\Debug\net5.0\I06 Años bisie.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I06 Años bisie\I06 Años bisie\obj\Debug\net5.0\ref\I06 Años bisie.dll
