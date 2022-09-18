@@ -1,0 +1,38 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.csproj.GenerateResource.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\refint\I01 Hola Forms.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\ref\I01 Hola Forms.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01_Hola_Forms.FrmMensaje.resources
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej0822\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01_Hola_Forms.FrmSaludar.resources
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\bin\Debug\net5.0-windows\I01 Hola Forms.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01_Hola_Forms.FrmMensaje.resources
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01_Hola_Forms.FrmSaludar.resources
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.csproj.GenerateResource.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\refint\I01 Hola Forms.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\I01 Hola Forms.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Hola Forms\I01 Hola Forms\obj\Debug\net5.0-windows\ref\I01 Hola Forms.dll

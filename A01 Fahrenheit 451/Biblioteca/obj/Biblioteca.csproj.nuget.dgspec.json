@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier\\Documents\\TUP\\Tercer Cuatri 08-22\\LPII822\\Ej0822\\A01 Fahrenheit 451\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Javier\\Documents\\TUP\\Tercer Cuatri 08-22\\LPII822\\Ej082022\\A01 Fahrenheit 451\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier\\Documents\\TUP\\Tercer Cuatri 08-22\\LPII822\\Ej0822\\A01 Fahrenheit 451\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Javier\\Documents\\TUP\\Tercer Cuatri 08-22\\LPII822\\Ej082022\\A01 Fahrenheit 451\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier\\Documents\\TUP\\Tercer Cuatri 08-22\\LPII822\\Ej0822\\A01 Fahrenheit 451\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Javier\\Documents\\TUP\\Tercer Cuatri 08-22\\LPII822\\Ej082022\\A01 Fahrenheit 451\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Javier\\Documents\\TUP\\Tercer Cuatri 08-22\\LPII822\\Ej0822\\A01 Fahrenheit 451\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Javier\\Documents\\TUP\\Tercer Cuatri 08-22\\LPII822\\Ej082022\\A01 Fahrenheit 451\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Javier\\Documents\\TUP\\Tercer Cuatri 08-22\\LPII822\\Ej0822\\A01 Fahrenheit 451\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Javier\\Documents\\TUP\\Tercer Cuatri 08-22\\LPII822\\Ej082022\\A01 Fahrenheit 451\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",

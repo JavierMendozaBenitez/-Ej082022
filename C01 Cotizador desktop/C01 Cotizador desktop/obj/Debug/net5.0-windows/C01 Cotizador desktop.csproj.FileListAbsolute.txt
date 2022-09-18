@@ -1,0 +1,22 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\bin\Debug\net5.0-windows\C01 Cotizador desktop.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\bin\Debug\net5.0-windows\C01 Cotizador desktop.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\bin\Debug\net5.0-windows\C01 Cotizador desktop.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\bin\Debug\net5.0-windows\C01 Cotizador desktop.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\bin\Debug\net5.0-windows\C01 Cotizador desktop.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\bin\Debug\net5.0-windows\C01 Cotizador desktop.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01 Cotizador desktop.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01_Cotizador_desktop.Form1.resources
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01 Cotizador desktop.csproj.GenerateResource.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01 Cotizador desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01 Cotizador desktop.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01 Cotizador desktop.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01 Cotizador desktop.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01 Cotizador desktop.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\refint\C01 Cotizador desktop.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01 Cotizador desktop.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01 Cotizador desktop.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\ref\C01 Cotizador desktop.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01_Cotizador_desktop.Properties.Resources.resources
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\bin\Debug\net5.0-windows\Billetes.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\bin\Debug\net5.0-windows\Billetes.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Cotizador desktop\C01 Cotizador desktop\obj\Debug\net5.0-windows\C01 Cotizador desktop.csproj.CopyComplete

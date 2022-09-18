@@ -1,0 +1,21 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\bin\Debug\net5.0-windows\C03 UI a ese conversor binario.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\bin\Debug\net5.0-windows\C03 UI a ese conversor binario.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\bin\Debug\net5.0-windows\C03 UI a ese conversor binario.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\bin\Debug\net5.0-windows\C03 UI a ese conversor binario.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\bin\Debug\net5.0-windows\C03 UI a ese conversor binario.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\bin\Debug\net5.0-windows\C03 UI a ese conversor binario.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\bin\Debug\net5.0-windows\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\bin\Debug\net5.0-windows\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03 UI a ese conversor binario.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03_UI_a_ese_conversor_binario.Form1.resources
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03 UI a ese conversor binario.csproj.GenerateResource.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03 UI a ese conversor binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03 UI a ese conversor binario.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03 UI a ese conversor binario.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03 UI a ese conversor binario.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03 UI a ese conversor binario.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03 UI a ese conversor binario.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\refint\C03 UI a ese conversor binario.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03 UI a ese conversor binario.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\C03 UI a ese conversor binario.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 UI a ese conversor binario\C03 UI a ese conversor binario\obj\Debug\net5.0-windows\ref\C03 UI a ese conversor binario.dll
