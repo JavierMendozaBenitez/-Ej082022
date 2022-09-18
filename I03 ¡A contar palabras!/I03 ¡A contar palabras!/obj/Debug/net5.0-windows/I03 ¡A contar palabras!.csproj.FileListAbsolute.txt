@@ -1,0 +1,18 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\bin\Debug\net5.0-windows\I03 ¡A contar palabras!.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\bin\Debug\net5.0-windows\I03 ¡A contar palabras!.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\bin\Debug\net5.0-windows\I03 ¡A contar palabras!.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\bin\Debug\net5.0-windows\I03 ¡A contar palabras!.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\bin\Debug\net5.0-windows\I03 ¡A contar palabras!.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\bin\Debug\net5.0-windows\I03 ¡A contar palabras!.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\I03 ¡A contar palabras!.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\I03__A_contar_palabras_.Form1.resources
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\I03 ¡A contar palabras!.csproj.GenerateResource.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\I03 ¡A contar palabras!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\I03 ¡A contar palabras!.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\I03 ¡A contar palabras!.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\I03 ¡A contar palabras!.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\I03 ¡A contar palabras!.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\refint\I03 ¡A contar palabras!.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\I03 ¡A contar palabras!.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\I03 ¡A contar palabras!.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I03 ¡A contar palabras!\I03 ¡A contar palabras!\obj\Debug\net5.0-windows\ref\I03 ¡A contar palabras!.dll

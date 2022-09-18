@@ -1,0 +1,16 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\bin\Debug\net5.0\I01 Números locos.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\bin\Debug\net5.0\I01 Números locos.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\bin\Debug\net5.0\I01 Números locos.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\bin\Debug\net5.0\I01 Números locos.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\bin\Debug\net5.0\I01 Números locos.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\bin\Debug\net5.0\I01 Números locos.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\obj\Debug\net5.0\I01 Números locos.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\obj\Debug\net5.0\I01 Números locos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\obj\Debug\net5.0\I01 Números locos.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\obj\Debug\net5.0\I01 Números locos.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\obj\Debug\net5.0\I01 Números locos.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\obj\Debug\net5.0\I01 Números locos.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\obj\Debug\net5.0\refint\I01 Números locos.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\obj\Debug\net5.0\I01 Números locos.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\obj\Debug\net5.0\I01 Números locos.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Números locos\I01 Números locos\obj\Debug\net5.0\ref\I01 Números locos.dll

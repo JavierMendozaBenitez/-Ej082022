@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\bin\Debug\net5.0\C02 Enciendan sus motores.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\bin\Debug\net5.0\C02 Enciendan sus motores.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\bin\Debug\net5.0\C02 Enciendan sus motores.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\bin\Debug\net5.0\C02 Enciendan sus motores.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\bin\Debug\net5.0\C02 Enciendan sus motores.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\bin\Debug\net5.0\C02 Enciendan sus motores.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\bin\Debug\net5.0\Entidades.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\C02 Enciendan sus motores.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\C02 Enciendan sus motores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\C02 Enciendan sus motores.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\C02 Enciendan sus motores.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\C02 Enciendan sus motores.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\C02 Enciendan sus motores.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\C02 Enciendan sus motores.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\refint\C02 Enciendan sus motores.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\C02 Enciendan sus motores.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\C02 Enciendan sus motores.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C02 Enciendan sus motores\C02 Enciendan sus motores\obj\Debug\net5.0\ref\C02 Enciendan sus motores.dll

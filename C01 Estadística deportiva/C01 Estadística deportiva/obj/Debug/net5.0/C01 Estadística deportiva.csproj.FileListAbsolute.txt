@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\bin\Debug\net5.0\C01 Estadística deportiva.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\bin\Debug\net5.0\C01 Estadística deportiva.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\bin\Debug\net5.0\C01 Estadística deportiva.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\bin\Debug\net5.0\C01 Estadística deportiva.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\bin\Debug\net5.0\C01 Estadística deportiva.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\bin\Debug\net5.0\C01 Estadística deportiva.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\bin\Debug\net5.0\Entidades.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\C01 Estadística deportiva.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\C01 Estadística deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\C01 Estadística deportiva.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\C01 Estadística deportiva.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\C01 Estadística deportiva.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\C01 Estadística deportiva.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\C01 Estadística deportiva.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\refint\C01 Estadística deportiva.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\C01 Estadística deportiva.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\C01 Estadística deportiva.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Estadística deportiva\C01 Estadística deportiva\obj\Debug\net5.0\ref\C01 Estadística deportiva.dll

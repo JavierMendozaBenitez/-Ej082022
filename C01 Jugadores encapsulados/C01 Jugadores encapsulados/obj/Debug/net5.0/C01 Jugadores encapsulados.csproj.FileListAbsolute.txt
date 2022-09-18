@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\bin\Debug\net5.0\C01 Jugadores encapsulados.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\bin\Debug\net5.0\C01 Jugadores encapsulados.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\bin\Debug\net5.0\C01 Jugadores encapsulados.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\bin\Debug\net5.0\C01 Jugadores encapsulados.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\bin\Debug\net5.0\C01 Jugadores encapsulados.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\bin\Debug\net5.0\C01 Jugadores encapsulados.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\bin\Debug\net5.0\Entidades.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\C01 Jugadores encapsulados.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\C01 Jugadores encapsulados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\C01 Jugadores encapsulados.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\C01 Jugadores encapsulados.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\C01 Jugadores encapsulados.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\C01 Jugadores encapsulados.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\C01 Jugadores encapsulados.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\refint\C01 Jugadores encapsulados.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\C01 Jugadores encapsulados.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\C01 Jugadores encapsulados.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Jugadores encapsulados\C01 Jugadores encapsulados\obj\Debug\net5.0\ref\C01 Jugadores encapsulados.dll

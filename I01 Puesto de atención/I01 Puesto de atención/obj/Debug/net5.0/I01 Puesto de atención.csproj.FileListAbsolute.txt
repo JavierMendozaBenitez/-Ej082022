@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\bin\Debug\net5.0\I01 Puesto de atención.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\bin\Debug\net5.0\I01 Puesto de atención.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\bin\Debug\net5.0\I01 Puesto de atención.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\bin\Debug\net5.0\I01 Puesto de atención.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\bin\Debug\net5.0\I01 Puesto de atención.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\bin\Debug\net5.0\I01 Puesto de atención.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\bin\Debug\net5.0\Entidades.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\I01 Puesto de atención.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\I01 Puesto de atención.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\I01 Puesto de atención.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\I01 Puesto de atención.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\I01 Puesto de atención.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\I01 Puesto de atención.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\I01 Puesto de atención.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\refint\I01 Puesto de atención.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\I01 Puesto de atención.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\I01 Puesto de atención.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 Puesto de atención\I01 Puesto de atención\obj\Debug\net5.0\ref\I01 Puesto de atención.dll

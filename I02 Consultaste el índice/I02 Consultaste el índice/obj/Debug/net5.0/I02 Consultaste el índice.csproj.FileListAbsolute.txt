@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\bin\Debug\net5.0\I02 Consultaste el índice.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\bin\Debug\net5.0\I02 Consultaste el índice.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\bin\Debug\net5.0\I02 Consultaste el índice.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\bin\Debug\net5.0\I02 Consultaste el índice.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\bin\Debug\net5.0\I02 Consultaste el índice.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\bin\Debug\net5.0\I02 Consultaste el índice.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\bin\Debug\net5.0\Entidades.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\I02 Consultaste el índice.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\I02 Consultaste el índice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\I02 Consultaste el índice.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\I02 Consultaste el índice.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\I02 Consultaste el índice.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\I02 Consultaste el índice.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\I02 Consultaste el índice.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\refint\I02 Consultaste el índice.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\I02 Consultaste el índice.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\I02 Consultaste el índice.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I02 Consultaste el índice\I02 Consultaste el índice\obj\Debug\net5.0\ref\I02 Consultaste el índice.dll
