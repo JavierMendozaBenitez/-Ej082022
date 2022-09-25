@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\bin\Debug\net5.0\I01 El viajar es un placer.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\bin\Debug\net5.0\I01 El viajar es un placer.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\bin\Debug\net5.0\I01 El viajar es un placer.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\bin\Debug\net5.0\I01 El viajar es un placer.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\bin\Debug\net5.0\I01 El viajar es un placer.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\bin\Debug\net5.0\I01 El viajar es un placer.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\bin\Debug\net5.0\Entidades.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\I01 El viajar es un placer.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\I01 El viajar es un placer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\I01 El viajar es un placer.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\I01 El viajar es un placer.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\I01 El viajar es un placer.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\I01 El viajar es un placer.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\I01 El viajar es un placer.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\refint\I01 El viajar es un placer.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\I01 El viajar es un placer.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\I01 El viajar es un placer.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\I01 El viajar es un placer\I01 El viajar es un placer\obj\Debug\net5.0\ref\I01 El viajar es un placer.dll

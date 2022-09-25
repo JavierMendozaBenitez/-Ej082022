@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\bin\Debug\net5.0\C03 La centralita Episodio I.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\bin\Debug\net5.0\C03 La centralita Episodio I.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\bin\Debug\net5.0\C03 La centralita Episodio I.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\bin\Debug\net5.0\C03 La centralita Episodio I.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\bin\Debug\net5.0\C03 La centralita Episodio I.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\bin\Debug\net5.0\C03 La centralita Episodio I.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\C03 La centralita Episodio I.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\C03 La centralita Episodio I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\C03 La centralita Episodio I.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\C03 La centralita Episodio I.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\C03 La centralita Episodio I.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\C03 La centralita Episodio I.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\C03 La centralita Episodio I.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\refint\C03 La centralita Episodio I.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\C03 La centralita Episodio I.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\C03 La centralita Episodio I.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C03 La centralita Episodio I\C03 La centralita Episodio I\obj\Debug\net5.0\ref\C03 La centralita Episodio I.dll

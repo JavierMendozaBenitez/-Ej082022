@@ -1,0 +1,19 @@
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\bin\Debug\net5.0\C01 Herencia deportiva.exe
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\bin\Debug\net5.0\C01 Herencia deportiva.deps.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\bin\Debug\net5.0\C01 Herencia deportiva.runtimeconfig.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\bin\Debug\net5.0\C01 Herencia deportiva.runtimeconfig.dev.json
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\bin\Debug\net5.0\C01 Herencia deportiva.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\bin\Debug\net5.0\C01 Herencia deportiva.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\C01 Herencia deportiva.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\C01 Herencia deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\C01 Herencia deportiva.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\C01 Herencia deportiva.AssemblyInfo.cs
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\C01 Herencia deportiva.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\C01 Herencia deportiva.csproj.CopyComplete
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\C01 Herencia deportiva.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\refint\C01 Herencia deportiva.dll
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\C01 Herencia deportiva.pdb
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\C01 Herencia deportiva.genruntimeconfig.cache
+C:\Users\Javier\Documents\TUP\Tercer Cuatri 08-22\LPII822\Ej082022\C01 Herencia deportiva\C01 Herencia deportiva\obj\Debug\net5.0\ref\C01 Herencia deportiva.dll
